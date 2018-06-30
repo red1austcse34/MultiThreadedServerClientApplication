@@ -22,6 +22,4 @@ message@first-user:second-user:third-user and the message will be delivered to t
 
 vi. Broadcast: A user can send message to all the online users
 
-vii. Create Chat Room: A user can also create a chat room, see the list of existing chat rooms, join and leave it 
-
-viii. Chat History: Whenever a user logs in, he/she should get the unread messages and see his or her chat history. 
+vii. Create Group: A user can also create a group, send message to all the members in the group.
